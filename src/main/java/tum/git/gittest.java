@@ -12,5 +12,6 @@ public class gittest {
         System.out.println("pull test");
         System.out.println("gitee push test");
         System.out.println("gitee pull test");
+        System.out.println("inport from github test");
     }
 }
