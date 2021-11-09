@@ -10,5 +10,6 @@ public class gittest {
         System.out.println("conflict test hotfix");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("gitee push test");
     }
 }
