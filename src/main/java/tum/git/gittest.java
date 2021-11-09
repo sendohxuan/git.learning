@@ -9,5 +9,6 @@ public class gittest {
         System.out.println("conflict test master");
         System.out.println("conflict test hotfix");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
